@@ -52,9 +52,6 @@ All tasks were implemented using Python and Google Colab notebooks. Code is full
   - List of all tokens  
   - Tokens after stopword removal  
   - Final stemmed tokens  
-- **Short Answers**:
-  - Stemming vs. Lemmatization explained with example (e.g., "running").
-  - Stopwords usefulness and when it might harm accuracy.
 
 ---
 
@@ -65,10 +62,7 @@ All tasks were implemented using Python and Google Colab notebooks. Code is full
 - **Output**:
   - Entity Text  
   - Entity Label (e.g., PERSON, DATE)  
-  - Start and End Character Positions  
-- **Short Answers**:
-  - Difference between NER and POS tagging  
-  - Real-world applications: finance, search engines  
+  - Start and End Character Positions   
 
 ---
 
@@ -83,9 +77,6 @@ All tasks were implemented using Python and Google Colab notebooks. Code is full
 - **Output**:
   - Attention weights matrix  
   - Final result matrix  
-- **Short Answers**:
-  - Why we divide by √d  
-  - How self-attention aids context understanding  
 
 ---
 
@@ -96,10 +87,7 @@ All tasks were implemented using Python and Google Colab notebooks. Code is full
 - **Model**: Pre-trained pipeline
 - **Output**:
   - Sentiment Label: POSITIVE  
-  - Confidence Score: e.g., 0.9987  
-- **Short Answers**:
-  - Difference between BERT (encoder) and GPT (decoder)  
-  - Benefits of pre-trained models over training from scratch  
+  - Confidence Score: e.g., 0.9987   
 
 ---
 
